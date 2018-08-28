@@ -1,1 +1,3 @@
-console.log('conflict');
+
+console.log("Filling empty file with content");
+
